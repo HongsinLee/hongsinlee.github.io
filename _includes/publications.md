@@ -24,12 +24,6 @@
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code(Github)</a>
-      {% endif %}
-      {% if link.codedown%} 
-      <a href="{{ link.codedown }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code(Zipfile)</a>
-      {% endif %}
       {% if link.openreview %} 
       <a href="{{ link.openreview }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">OpenReview</a>
       {% endif %}
@@ -38,6 +32,12 @@
       {% endif %}
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      {% endif %}
+      {% if link.code %} 
+      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code(Github)</a>
+      {% endif %}
+      {% if link.codedown%} 
+      <a href="{{ link.codedown }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code(Zipfile)</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
