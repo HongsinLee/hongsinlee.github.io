@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2312.03286.pdf
     OpenReview: https://openreview.net/forum?id=juKVq5dWTR
     code: https://openreview.net/attachment?id=juKVq5dWTR&name=supplementary_material
-    image: ./assets/img/intro_IGDM.pdf
+    image: ./assets/img/intro_IGDM.png
 
   - title: "Long-tailed Adversarial Training with Self-Distillation"
     authors: Seungju Cho*, <strong>Hongsin Lee*<strong>, Changick Kim (*Eqaul contribution)
