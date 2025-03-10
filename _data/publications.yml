@@ -6,7 +6,7 @@ main:
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2312.03286.pdf
     openreview: https://openreview.net/forum?id=juKVq5dWTR
-    code: https://openreview.net/attachment?id=juKVq5dWTR&name=supplementary_material
+    codedown: https://openreview.net/attachment?id=juKVq5dWTR&name=supplementary_material
     image: ./assets/img/intro_IGDM.png
 
   - title: "Long-tailed Adversarial Training with Self-Distillation"
@@ -15,7 +15,7 @@ main:
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     openreview: https://openreview.net/forum?id=vM94dZiqx4
-    code: https://openreview.net/attachment?id=vM94dZiqx4&name=supplementary_material
+    codedown: https://openreview.net/attachment?id=vM94dZiqx4&name=supplementary_material
 
 
   - title: "Enhancing Robustness in Incremental Learning with Adversarial Training"
