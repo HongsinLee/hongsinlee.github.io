@@ -1,22 +1,26 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Indirect Gradient Matching for Adversarial Robust Distillation"
+    authors: <strong>Hongsin Lee*<strong>, Seungju Cho*, Changick Kim (*Eqaul contribution)
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2312.03286.pdf
+    OpenReview: https://openreview.net/forum?id=juKVq5dWTR
+    code: https://openreview.net/attachment?id=juKVq5dWTR&name=supplementary_material
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+
+  - title: "Long-tailed Adversarial Training with Self-Distillation"
+    authors: Seungju Cho*, <strong>Hongsin Lee*<strong>, Changick Kim (*Eqaul contribution)
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    OpenReview: https://openreview.net/forum?id=vM94dZiqx4
+    code: https://openreview.net/attachment?id=vM94dZiqx4&name=supplementary_material
+
+
+  - title: "Enhancing Robustness in Incremental Learning with Adversarial Training"
+    authors: Seungju Cho*, <strong>Hongsin Lee*<strong>, Changick Kim (*Eqaul contribution)
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)<strong>, 2025
+    pdf: https://arxiv.org/abs/2312.03289.pdf
+    code: https://github.com/HongsinLee/FLAIR
