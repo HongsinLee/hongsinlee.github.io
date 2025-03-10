@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2312.03286.pdf
     OpenReview: https://openreview.net/forum?id=juKVq5dWTR
     code: https://openreview.net/attachment?id=juKVq5dWTR&name=supplementary_material
-
+    image: ./assets/img/intro_IGDM.pdf
 
   - title: "Long-tailed Adversarial Training with Self-Distillation"
     authors: Seungju Cho*, <strong>Hongsin Lee*<strong>, Changick Kim (*Eqaul contribution)
@@ -24,3 +24,17 @@ main:
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)<strong>, 2025
     pdf: https://arxiv.org/abs/2312.03289.pdf
     code: https://github.com/HongsinLee/FLAIR
+
+
+
+
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
