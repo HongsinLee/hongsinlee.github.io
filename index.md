@@ -2,13 +2,7 @@
 layout: homepage
 ---
 
-## Education
-- **Ph.D. in Electrical Engineering**, KAIST (Mar. 2025 – Present)  
 
-- **M.S. in Electrical Engineering**, KAIST (Mar. 2023 – Feb. 2025)  
-  - Thesis: “Indirect Gradient Matching for Adversarial Robust Distillation”
-
-- **B.S. in Electrical Engineering**, KAIST (Mar. 2017 – Feb. 2023)
 
 
 <!-- ## Research Interests
@@ -24,3 +18,12 @@ layout: homepage
 {% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
+
+
+## Education
+- **Ph.D. in Electrical Engineering**, KAIST (Mar. 2025 – Present)  
+
+- **M.S. in Electrical Engineering**, KAIST (Mar. 2023 – Feb. 2025)  
+  - Thesis: “Indirect Gradient Matching for Adversarial Robust Distillation”
+
+- **B.S. in Electrical Engineering**, KAIST (Mar. 2017 – Feb. 2023)
