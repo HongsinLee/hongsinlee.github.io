@@ -1,7 +1,7 @@
 main:
 
   - title: "Indirect Gradient Matching for Adversarial Robust Distillation"
-    authors: <strong>Hongsin Lee*<strong>, Seungju Cho*, Changick Kim (*Eqaul contribution)
+    authors: <strong>Hongsin Lee*</strong>, Seungju Cho*, Changick Kim (*Equal contribution)
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2312.03286.pdf
@@ -10,7 +10,7 @@ main:
     image: ./assets/img/intro_IGDM.png
 
   - title: "Long-tailed Adversarial Training with Self-Distillation"
-    authors: Seungju Cho*, <strong>Hongsin Lee*<strong>, Changick Kim (*Eqaul contribution)
+    authors: Seungju Cho*, <strong>Hongsin Lee*</strong>, Changick Kim (*Equal contribution)
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
@@ -19,9 +19,9 @@ main:
 
 
   - title: "Enhancing Robustness in Incremental Learning with Adversarial Training"
-    authors: Seungju Cho*, <strong>Hongsin Lee*<strong>, Changick Kim (*Eqaul contribution)
+    authors: Seungju Cho*, <strong>Hongsin Lee*</strong>, Changick Kim (*Equal contribution)
     conference_short: AAAI
-    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)<strong>, 2025
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025
     pdf: https://arxiv.org/abs/2312.03289.pdf
     code: https://github.com/HongsinLee/FLAIR
 

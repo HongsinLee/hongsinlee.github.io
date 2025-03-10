@@ -39,14 +39,14 @@
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
       {% endif %}
-      <!-- {% if link.others %} 
+      {% if link.others %} 
       {{ link.others }}
-      {% endif %} -->
+      {% endif %}
     </div>
   </div>
 </div>
 </li>
-
+<br>
 
 {% endfor %}
 
