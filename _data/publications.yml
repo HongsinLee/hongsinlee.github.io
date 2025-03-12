@@ -13,7 +13,7 @@ main:
     authors: Seungju Cho*, <strong>Hongsin Lee*</strong>, Changick Kim (*Equal contribution)
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://arxiv.org/abs/2503.06461.pdf
     openreview: https://openreview.net/forum?id=vM94dZiqx4
     codedown: https://openreview.net/attachment?id=vM94dZiqx4&name=supplementary_material
 
