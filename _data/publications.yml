@@ -1,5 +1,25 @@
 main:
 
+  - title: "Toward Understanding Adversarial Distillation: Why Robust Teachers Fail"
+    authors: <strong>Hongsin Lee</strong>, Hye Won Chung
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026
+    # pdf: https://arxiv.org/abs/2512.10275.pdf
+    # openreview: https://openreview.net/forum?id=ek45VamPCE
+    # code: https://github.com/HongsinLee/saad
+
+
+
+  - title: "Sample-wise Adaptive Weighting for Transfer Consistency in Adversarial Distillation"
+    authors: <strong>Hongsin Lee</strong>, Hye Won Chung
+    conference_short: TMLR
+    conference: Transactions on Machine Learning Research <strong>(TMLR)</strong>, 2026
+    pdf: https://arxiv.org/abs/2512.10275.pdf
+    openreview: https://openreview.net/forum?id=ek45VamPCE
+    code: https://github.com/HongsinLee/saad
+
+
+
   - title: "Indirect Gradient Matching for Adversarial Robust Distillation"
     authors: <strong>Hongsin Lee*</strong>, Seungju Cho*, Changick Kim (*Equal contribution)
     conference_short: ICLR
