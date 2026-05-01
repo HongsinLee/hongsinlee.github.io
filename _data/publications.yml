@@ -14,7 +14,7 @@ main:
     authors: <strong>Hongsin Lee</strong>, Hye Won Chung
     conference_short: TMLR
     conference: Transactions on Machine Learning Research <strong>(TMLR)</strong>, 2026
-    pdf: https://arxiv.org/abs/2512.10275.pdf
+    pdf: https://arxiv.org/pdf/2512.10275.pdf
     openreview: https://openreview.net/forum?id=ek45VamPCE
     code: https://github.com/HongsinLee/saad
 
