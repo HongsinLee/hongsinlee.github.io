@@ -12,8 +12,10 @@ layout: homepage
 
 ## News
 
-- **[Jan. 2025]** Two papers about adversarial training are accepted to ICLR 2025.
-- **[Dec. 2024]** One paper about adversarial training is accepted to AAAI 2025.
+- **[May. 2026]** One paper is accepted to **ICML 2026**.
+- **[May. 2026]** One paper is accepted to **TMLR**.
+- **[Jan. 2025]** Two papers are accepted to **ICLR 2025**.
+- **[Dec. 2024]** One paper is accepted to **AAAI 2025**.
 
 {% include_relative _includes/publications.md %}
 
