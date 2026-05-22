@@ -4,9 +4,9 @@ main:
     authors: <strong>Hongsin Lee</strong>, Hye Won Chung
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026
-    # pdf: https://arxiv.org/abs/2512.10275.pdf
-    # openreview: https://openreview.net/forum?id=ek45VamPCE
-    # code: https://github.com/HongsinLee/saad
+    pdf: https://arxiv.org/pdf/2605.21999
+    openreview: https://openreview.net/forum?id=USejwpvj0a
+    code: https://github.com/HongsinLee/why-robust-teachers-fail
 
 
 
